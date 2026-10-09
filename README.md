@@ -118,15 +118,15 @@ The dashboard helps users:
 
 ![FMCG Business Performance Analysis](FMCG%20BA%20Dashboard.png)
 
-## 📷 Dashboard Preview Tableau
+## 📷 Dashboard Preview for Tableau
 
 ### Executive Summary
 
-![FMCG Executive Summary](FMCG%20Dashboard.png)
+![FMCG Executive Summary](FMCG%20Summary.png)
 
 ### Business Performance Analysis
 
-![FMCG Business Performance Analysis](FMCG%20BA%20Dashboard.png)
+![FMCG Business Performance Analysis](FMCG%20Business%20Analysis.png)
 
 ---
 
