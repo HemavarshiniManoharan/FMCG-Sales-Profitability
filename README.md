@@ -122,11 +122,11 @@ The dashboard helps users:
 
 ### Executive Summary
 
-![FMCG Executive Summary](FMCG%20Summary.png)
+![FMCG Tableau Executive Summary](Summary.png)
 
 ### Business Performance Analysis
 
-![FMCG Business Performance Analysis](FMCG%20Business%20Analysis.png)
+![FMCG Tableau Business Performance Analysis](Business%20Analysis.png)
 
 ---
 
