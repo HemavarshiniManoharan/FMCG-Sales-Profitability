@@ -108,7 +108,17 @@ The dashboard helps users:
 
 ---
 
-## 📷 Dashboard Preview
+## 📷 Dashboard Preview for Power BI
+
+### Executive Summary
+
+![FMCG Executive Summary](FMCG%20Dashboard.png)
+
+### Business Performance Analysis
+
+![FMCG Business Performance Analysis](FMCG%20BA%20Dashboard.png)
+
+## 📷 Dashboard Preview Tableau
 
 ### Executive Summary
 
@@ -122,4 +132,4 @@ The dashboard helps users:
 
 ## 🛠️ Tools Used
 
-**Power BI | Data Analysis | Data Visualization**
+**Power BI | Tableau | Data Analysis | Data Visualization**
