@@ -122,4 +122,4 @@ The dashboard helps users:
 
 ## 🛠️ Tools Used
 
-**Power BI | Tableau | Data Analysis | Data Visualization**
+**Power BI | Data Analysis | Data Visualization**
